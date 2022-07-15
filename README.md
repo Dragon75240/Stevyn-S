@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Stevyn-S
+- 👋 Hi, I’m Dragon
 - 👀 I’m interested in Computer Sci
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Coding ( VS Code C++ )
